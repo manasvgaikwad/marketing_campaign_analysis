@@ -37,7 +37,8 @@ A bank ran a telemarketing campaign to sell term deposits, but only a small shar
 ### 1. Customer Profile Dashboard
 This dashboard shows which types of customers are most likely to subscribe.
 
-![Customer Profile Dashboard](images/dashboard_page1.png)
+<img width="1220" height="692" alt="image" src="https://github.com/user-attachments/assets/084e904b-9332-4686-8bdb-a6e53e21de9f" />
+
 
 * **Key Insight:** **Students** and **retired** customers have the highest subscription rates (**28.7%** and **22.8%**), against an overall rate of **11.7%**.
 * **Other Insights:**
@@ -49,7 +50,8 @@ This dashboard shows which types of customers are most likely to subscribe.
 ### 2. Campaign Performance Dashboard
 This dashboard shows how the campaign itself affects results: timing, contact method and call frequency.
 
-![Campaign Performance Dashboard](images/dashboard_page2.png)
+<img width="1222" height="695" alt="image" src="https://github.com/user-attachments/assets/9d1ca86a-c2be-4758-bddd-28b16e6dcc84" />
+
 
 * **Key Insight:** Customers with a successful previous campaign outcome subscribe at **64.7%**, against **11.7%** overall, making them the best group to target.
 * **Other Insights:**
